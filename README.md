@@ -5,7 +5,8 @@ This project's goal was to develop a ML based price prediction model for determi
 2) volume weighted average of BBO and,
 3) volume weighted average (5 levels) with exponential smoothing parameter
 
-Tested on the following models:
+Mainly tested on the following models:
+- hurdle model approach for inflated zeros 
 - Ridge regression,
 - Random Forest and,
 - LGBM
