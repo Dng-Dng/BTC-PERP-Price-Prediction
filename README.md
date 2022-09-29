@@ -31,3 +31,5 @@ Features incorporated:
 - Hour of Day
 - Log Returns (mid-price Binance)
 - Liquidation size (binance)
+
+Files dumped into Repo (may be incomplete)
